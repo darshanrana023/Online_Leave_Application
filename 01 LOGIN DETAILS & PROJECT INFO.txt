@@ -1,0 +1,12 @@
+**Database Name: online_leave_application**
+
+**Developed by Darshan Rana**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Admin Login Details**
+
+Username: darshan029
+Password: 12345678
+
